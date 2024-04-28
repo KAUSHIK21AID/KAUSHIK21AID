@@ -28,6 +28,6 @@ My skills are here as follows:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://leetcode.com/u/Kaushik_kannan/">
-    <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
